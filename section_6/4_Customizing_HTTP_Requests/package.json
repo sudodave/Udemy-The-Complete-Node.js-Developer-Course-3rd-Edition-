@@ -1,0 +1,14 @@
+{
+  "name": "weather_application",
+  "version": "1.0.0",
+  "description": "A Weather application using an API and async JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postman-request": "^2.88.1-postman.23"
+  }
+}
